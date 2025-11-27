@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @spillproof98
+- 👋 Hi, I’m @AdithyaR
 - 📫 reach me by mail- tilakadithya@hotmail.com
 - 📞 call me +91 7540009450
-
-
+- https://adithyar-webportfolio.netlify.app/
